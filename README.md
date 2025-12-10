@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">
+  <span style="color:#00eaff;">Mike Raccoon</span> ⚡
+</h1>
+<p align="center">
+  <b style="color:#ff00ff;">Frontend Developer</b> • HTML • CSS/SCSS • JS • TS • React
+</p>
 
-<!--
-**Mihail-Dubrovin/Mihail-Dubrovin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mike-Raccoon&color=ff00ff&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌀 Neon Signal: Who I Am
+
+I craft fast, scalable and clean user interfaces using modern frontend technologies.  
+Focused on building **stable UI architectures**, predictable state management and pleasant DX.
+
+💠 Pixel-precise layouts  
+💠 Reactive user flows  
+💠 Component-driven development  
+💠 Strong TypeScript discipline  
+
+---
+
+## ⚙️ My Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux" />
+</div>
+
+### Core Skills
+- ⚡ **React** (Hooks, Context, Suspense patterns)  
+- ⚡ **React Router** (complex routing, guards, nested layouts)  
+- ⚡ **Redux Toolkit** (slices, entity adapters, feature-based structure)  
+- ⚡ **RTK Query** (API architecture, caching, normalization)  
+- ⚡ **SCSS architecture** (BEM, mixins, modular styles)  
+- ⚡ **Typescript-first UI development**  
+
+---
+
+## 🧩 Code Philosophy (Neon Edition)
+
+> *"Clean code is not an option — it's a survival protocol."*
+
+- Modular feature-first folders  
+- Reusable UI primitives  
+- Predictable async flows  
+- Zero "magic" in data fetching  
+- Self-documenting components  
+- Accessibility awareness  
+- Refactor > quick hack  
+
+---
+
+## 🔥 Stats (Neon Dashboard)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mike-Raccoon&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mike-Raccoon&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ☣️ Connect with Me
+- Telegram: **@your_handle**
+- Anything else — могу красиво оформить, если скажешь
+
+---
+
+<p align="center">
+  <b style="color:#00eaff;">// Stay sharp. Stay neon. ⚡</b>
+</p>
