@@ -1,9 +1,6 @@
-<h1 align="center">
-  <span style="color:#00eaff;">Mihail Dubrovin</span> ⚡
-</h1>
-<p align="center">
-  <b style="color:#ff00ff;">Frontend Developer</b> • HTML • CSS/SCSS • JS • TS • React
-</p>
+<h1 align="center">Hello there, I'm <a href="https://github.com/Mihail-Dubrovin" target="_blank">Mihail</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mike-Raccoon&color=ff00ff&style=flat" />
@@ -11,7 +8,7 @@
 
 ---
 
-## 🌀 Who I Am
+## About me:
 
 I craft fast, scalable and clean user interfaces using modern frontend technologies.  
 Focused on building **stable UI architectures**, predictable state management and pleasant DX.
@@ -25,22 +22,17 @@ Focused on building **stable UI architectures**, predictable state management an
 
 ## ⚙️ My Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux" />
-</div>
-
-### Core Skills
-- ⚡ **React** (Hooks, Context, Suspense patterns)  
-- ⚡ **React Router** (complex routing, guards, nested layouts)  
-- ⚡ **Redux Toolkit** (slices, entity adapters, feature-based structure)  
-- ⚡ **RTK Query** (API architecture, caching, normalization)  
-- ⚡ **SCSS architecture** (BEM, mixins, modular styles)  
-- ⚡ **Typescript-first UI development**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
 ## 🔥 Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mike-Raccoon&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mike-Raccoon&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mihail-Dubrovin&theme=synthwave)](https://git.io/streak-stats)
