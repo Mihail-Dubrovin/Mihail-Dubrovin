@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#00eaff;">Mike Raccoon</span> ⚡
+  <span style="color:#00eaff;">Mihail Dubrovin</span> ⚡
 </h1>
 <p align="center">
   <b style="color:#ff00ff;">Frontend Developer</b> • HTML • CSS/SCSS • JS • TS • React
@@ -11,7 +11,7 @@
 
 ---
 
-## 🌀 Neon Signal: Who I Am
+## 🌀 Who I Am
 
 I craft fast, scalable and clean user interfaces using modern frontend technologies.  
 Focused on building **stable UI architectures**, predictable state management and pleasant DX.
@@ -39,34 +39,8 @@ Focused on building **stable UI architectures**, predictable state management an
 
 ---
 
-## 🧩 Code Philosophy (Neon Edition)
-
-> *"Clean code is not an option — it's a survival protocol."*
-
-- Modular feature-first folders  
-- Reusable UI primitives  
-- Predictable async flows  
-- Zero "magic" in data fetching  
-- Self-documenting components  
-- Accessibility awareness  
-- Refactor > quick hack  
-
----
-
-## 🔥 Stats (Neon Dashboard)
+## 🔥 Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mike-Raccoon&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mike-Raccoon&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## ☣️ Connect with Me
-- Telegram: **@your_handle**
-- Anything else — могу красиво оформить, если скажешь
-
----
-
-<p align="center">
-  <b style="color:#00eaff;">// Stay sharp. Stay neon. ⚡</b>
 </p>
